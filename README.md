@@ -1,9 +1,9 @@
 # 📩Phishing Email Detection System with Risk Scoring
 
 ## 📌 Description
-```
+
 This project detects phishing emails by analyzing content, identifying suspicious patterns, and assigning a risk score. It also supports external verification using VirusTotal.
-```
+
 
 ## 🚀Features
 ```
