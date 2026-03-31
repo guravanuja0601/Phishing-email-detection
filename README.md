@@ -49,7 +49,7 @@ This project detects phishing emails by analyzing content, identifying suspiciou
 - MEDIUM RISK → ⚠️Suspicious email
 - LOW RISK → ✅Safe email
 ```
-## Output Screenshot
+## 📷Output Screenshot
 
 ![System Output](system_output.png)
 ![VirusTotal](virustotal_result.png)
