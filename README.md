@@ -49,3 +49,9 @@ This project detects phishing emails by analyzing content, identifying suspiciou
 - MEDIUM RISK → ⚠️Suspicious email
 - LOW RISK → ✅Safe email
 ```
+## Output Screenshot
+
+![System Output](system-output.png)
+![VirusTotal](virustotal-result.png)
+![URLScan](urlscan-result.png)
+
