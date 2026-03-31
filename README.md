@@ -51,7 +51,7 @@ This project detects phishing emails by analyzing content, identifying suspiciou
 ```
 ## Output Screenshot
 
-![System Output](system-output.png)
-![VirusTotal](virustotal-result.png)
-![URLScan](urlscan-result.png)
+![System Output](system output.png)
+![VirusTotal](virustotal result.png)
+![URLScan](urlscan output.png)
 
