@@ -54,4 +54,9 @@ This project detects phishing emails by analyzing content, identifying suspiciou
 ![System Output](system_output.png)
 ![VirusTotal](virustotal_result.png)
 ![URLScan](urlscan_output.png)
+---
+
+## 👩‍💻 Author
+Anuja Gurav
+
 
