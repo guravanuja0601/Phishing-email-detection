@@ -55,6 +55,12 @@ This project detects phishing emails by analyzing content, identifying suspiciou
 ![VirusTotal](virustotal_result.png)
 ![URLScan](urlscan_output.png)
 ---
+## 🚀 Future Enhancements
+
+- Add machine learning-based detection  
+- Integrate VirusTotal API  
+- Develop GUI interface  
+- Implement real-time scanning
 
 ## 👩‍💻 Author
 Anuja Gurav
